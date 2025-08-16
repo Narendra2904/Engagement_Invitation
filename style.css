@@ -47,9 +47,8 @@ img {
   font-style: normal;
   font-size: 65px;
   margin: 5px 0;
-  color: #da400d;
+  color: #003366;
   padding: 5px;
-  text-shadow: 0 0 10px rgb(255, 255, 255);
 }
 
 .title h2 {
@@ -800,4 +799,5 @@ blockquote::after {
   position: absolute;
 }
 .ganesh{
+
 height: 100px}
